@@ -1,0 +1,74 @@
+body {
+	background-color: #ebf8ff;
+	margin: 5%;
+}
+.head {
+	border-top: 10px solid #4285F4;
+    border-radius: 10px;
+    justify-content: center;
+    align-content: center;
+    width: 90%;
+    padding: 30px;
+    margin: 5px;
+    background-color: #fff;
+}
+.head > h1 {
+	font-size: 30px;
+}
+.email, .name,.number, .fee, .fees, .location, .school {
+	
+	border-radius: 10px;
+	justify-content: center;
+	align-content: center;
+	width: 90%;
+	margin-top: 30px;
+	height: 10vh;
+	padding: 30px;
+	background-color: #fff;
+	box-shadow: 1px;
+
+
+}
+.fee, .fees {
+	height: 20vh;
+}
+input {
+	border: none;
+	border-bottom: 1px solid #000;
+	margin-top: 20px;
+
+}
+.kin {
+	border-radius: 10px;
+	justify-content: center;
+	align-content: center;
+	width: 90%;
+	margin-top: 30px;
+	height: 20vh;
+	padding: 30px;
+	background-color: #fff;
+}
+.join, .about {
+	border-radius: 10px;
+	justify-content: center;
+	align-content: center;
+	width: 90%;
+	margin-top: 30px;
+	height: 10vh;
+	padding: 30px;
+	background-color: #fff;
+
+}
+#footer > input {
+	height: 35px;
+
+	background-color: #287cfb;
+	color: #fff;
+	border-radius: 10%;
+}
+.page > ul > li{
+	list-style: none;
+	float: right;
+	
+}
+
